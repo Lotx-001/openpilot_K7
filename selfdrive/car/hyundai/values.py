@@ -673,7 +673,8 @@ FW_VERSIONS = {
      ],
   },
   CAR.CADENZA: {
-    (Ecu.eps, 0x7d4, None): [b'\xf1\000YG  MDPS C 1.00 1.01 56310F6350\000 4YG7C101',],
+    (Ecu.eps, 0x7d4, None): [b'\xf1\000YG  MDPS C 1.00 1.01 99800-F6563\000 4YGAC100',],
+    (Ecu.fwdCamera, 0x7c4, None): [b'\xf1\49IG MFC LKAS 1.00 1.00 95740-F9200 180915',],
   },
 }
 
